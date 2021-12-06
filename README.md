@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JinmanHong
-- 👀 I’m interested in frontend developer
+- 👀 I’m interested in Frontend Developer
 - 🌱 I’m currently learning HTML,JS,CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to contact me wlsaks2372@naver.com
