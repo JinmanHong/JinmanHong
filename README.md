@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JinmanHong
-- 👀 I’m interested in Frontend Developer
-- 🌱 I’m currently learning HTML,JS,CSS
+- 👀 I’m interested in Software Engineer
+- 🌱 I’m currently learning HTML,JS,CSS,python
 - 📫 How to contact me wlsaks2372@naver.com
 
 <!---
