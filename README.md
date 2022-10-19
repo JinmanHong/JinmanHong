@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JinmanHong
-- 👀 I’m interested in Software Engineer
+- 👀 I’m interested in Web field
 - 🌱 I’m currently learning HTML,JS,CSS,python
 - 📫 How to contact me wlsaks2372@naver.com
 
