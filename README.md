@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JinmanHong
 - 👀 I’m interested in Web field
-- 🌱 I’m currently learning HTML,JS,CSS,python
+- 🌱 I’m currently learning HTML,JS,CSS,python,kotlin,android
 - 📫 How to contact me wlsaks2372@naver.com
 
 <!---
